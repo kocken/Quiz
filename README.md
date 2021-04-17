@@ -1,0 +1,2 @@
+# Quiz
+This is a web application that displays random quiz questions from the list of questions (questions_list.json). The questions are answered by the user by selecting one of the 3 answer options. Once 3 or more questions have been answered, the user can end the quiz and see their points, and then restart the quiz if they'd like. This project includes a backend API written in .NET Core (.NET 5), unit test for the API as well as a frontend app written in vanilla JavaScript.
