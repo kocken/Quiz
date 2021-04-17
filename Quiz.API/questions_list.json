@@ -1,0 +1,42 @@
+[
+  {
+    "Id":  0,
+    "Question": "What is the height of the Eifel tower?",
+    "A": "324",
+    "B": "277",
+    "C": "365",
+    "Correct": "A"
+  },
+  {
+    "Id": 1,
+    "Question": "How many bits are in 8 kilobytes?",
+    "A": "64000",
+    "B": "8000",
+    "C": "65536",
+    "Correct": "C"
+  },
+  {
+    "Id": 2,
+    "Question": "What is the speed of light in vaccume?",
+    "A": "25600 miles per second",
+    "B": "186000 miles per second",
+    "C": "79100000 miles per hour",
+    "Correct": "B"
+  },
+  {
+    "Id": 3,
+    "Question": "Which year was Nikola Tesla born?",
+    "A": "1889",
+    "B": "1832",
+    "C": "1856",
+    "Correct": "C"
+  },
+  {
+    "Id": 4,
+    "Question": "Which year did the JavaScript programming language appear for the first time?",
+    "A": "1995",
+    "B": "2000",
+    "C": "1998",
+    "Correct": "A"
+  }
+]
